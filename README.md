@@ -5,7 +5,7 @@
 윈도우 : ./gradlew.bat clean bootjar -Pprofile=prod
 
 ### deploy script
-java -jar build/libs/work-0.0.1-SNAPSHOT.jar
+java -jar build/libs/work-0.0.1-SNAPSHOT.jar 
 
 ### CREATE TABLE
 ## 회원 테이블
